@@ -1,1 +1,2 @@
-# git-course demo
+Your local content
+GitHub content
